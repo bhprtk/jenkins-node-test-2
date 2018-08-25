@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jenkins-mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jenkins-mocha": "^6.0.0"
+  }
+}
